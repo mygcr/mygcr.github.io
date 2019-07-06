@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "/Type-on-Strap"
-url: "https://www.waigongjia.com"
-title: Type on Strap # site's title
+url: "https://mygcr.github.io"
+title: Mygcr blogs and website # site's title
 description: "A website with blog posts and pages" # used by search engines
 
 defaults:
@@ -22,11 +22,11 @@ theme_settings:
   header_text: Change header text in <code>_config.yml</code>
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+    Powered by <a href="https://www.baidu.com/">mygcr</a> with <a href="https://github.com/mygcr/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: commvault@vip.qq.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
