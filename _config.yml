@@ -19,7 +19,7 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: 天上的云恐高吗 </code>
+  header_text: 天上的云恐高吗</code>
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
     Powered by <a href="https://www.baidu.com/">mygcr</a> with <a href="https://github.com/mygcr/Type-on-Strap">Type on Strap</a>
