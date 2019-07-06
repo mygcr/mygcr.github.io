@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
+baseurl: ""
 url: "https://mygcr.github.io"
 title: Mygcr blogs and website # site's title
 description: "A website with blog posts and pages" # used by search engines
