@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://mygcr.github.io"
-title: Mygcr blogs and website # site's title
-description: "Well, here it is" # used by search engines
+title: Dxb blogs and website # site's title
+description: "Well   here it is" # used by search engines
 
 defaults:
   - 
