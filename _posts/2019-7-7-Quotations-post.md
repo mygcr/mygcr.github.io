@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 语录 摘抄
+title: 混沌初开
 tags: [ 语录, 摘抄, 文字, 闲散]
 author-id: dxb
 excerpt_separator: <!--more-->
