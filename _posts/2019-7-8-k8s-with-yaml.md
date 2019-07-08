@@ -42,31 +42,31 @@ spec:         #必选，Pod中容器的详细定义
     
     volumeMounts:    #挂载到容器内部的存储卷配置
     
-#    - name: string     #引用pod定义的共享存储卷的名称，需用volumes[]部分定义的的卷名
+    - name: string     #引用pod定义的共享存储卷的名称，需用volumes[]部分定义的的卷名
     
-#      mountPath: string    #存储卷在容器内mount的绝对路径，应少于512字符
+      mountPath: string    #存储卷在容器内mount的绝对路径，应少于512字符
       
-#      readOnly: boolean    #是否为只读模式
+      readOnly: boolean    #是否为只读模式
       
-#    ports:       #需要暴露的端口库号列表
+    ports:       #需要暴露的端口库号列表
     
-#    - name: string     #端口号名称
+    - name: string     #端口号名称
 
-#      containerPort: int   #容器需要监听的端口号
+      containerPort: int   #容器需要监听的端口号
       
-#      hostPort: int    #容器所在主机需要监听的端口号，默认与Container相同
+      hostPort: int    #容器所在主机需要监听的端口号，默认与Container相同
       
-#      protocol: string     #端口协议，支持TCP和UDP，默认TCP
+      protocol: string     #端口协议，支持TCP和UDP，默认TCP
       
-#    env:       #容器运行前需设置的环境变量列表
+    env:       #容器运行前需设置的环境变量列表
 
-#    - name: string     #环境变量名称
+    - name: string     #环境变量名称
 
-#      value: string    #环境变量的值
+      value: string    #环境变量的值
 
-#    resources:       #资源限制和请求的设置
+    resources:       #资源限制和请求的设置
 
-#      limits:      #资源限制的设置
+      limits:      #资源限制的设置
 
         cpu: string    #Cpu的限制，单位为core数，将用于docker run --cpu-shares参数
         
