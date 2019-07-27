@@ -26,7 +26,7 @@ excerpt_separator: <!--more-->
 * xmanger linux系统远程工具
 * VNC linux远程工具
 * RDO windows远程工具
-* vdbench 数据压测工具 ，kstat
+* vdbench 数据压测工具
 * dstat 是一个可以取代vmstat,iostat,netstat和ifstat这些命令的多功能产品
 
 * 墨墨记单词 手机app
